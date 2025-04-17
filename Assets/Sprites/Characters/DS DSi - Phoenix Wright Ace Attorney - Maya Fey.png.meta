@@ -1,0 +1,4039 @@
+fileFormatVersion: 2
+guid: f8ec26209d09d7e4ab3a602a19448261
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8726892541496911873
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_0
+  - first:
+      213: -3535019951930418785
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_1
+  - first:
+      213: 7464089342184990151
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_2
+  - first:
+      213: -5030177435136775099
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_3
+  - first:
+      213: 3491460559500363412
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_4
+  - first:
+      213: -6565363078933725403
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_5
+  - first:
+      213: 5294788017467554713
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_6
+  - first:
+      213: 1471597940993460619
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_7
+  - first:
+      213: 2093823667656309036
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_8
+  - first:
+      213: -293680271794239493
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_9
+  - first:
+      213: -4440958465835239568
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_10
+  - first:
+      213: -9038275782317659081
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_11
+  - first:
+      213: 4996583499802718297
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_12
+  - first:
+      213: -1470818550111672600
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_13
+  - first:
+      213: 7163944004205496987
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_14
+  - first:
+      213: -7522910764517405224
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_15
+  - first:
+      213: -550220604180706428
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_16
+  - first:
+      213: 2316457131839291375
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_17
+  - first:
+      213: 336393058678094894
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_18
+  - first:
+      213: 1120672461346846382
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_19
+  - first:
+      213: 5379637917009564288
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_20
+  - first:
+      213: 4794663716968325912
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_21
+  - first:
+      213: 3050349434829771162
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_22
+  - first:
+      213: 3226628710275530664
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_23
+  - first:
+      213: -6956330852194487186
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_24
+  - first:
+      213: 8620504077755919403
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_25
+  - first:
+      213: -6733713071607812628
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_26
+  - first:
+      213: 6980949215775282249
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_27
+  - first:
+      213: -981958318591711649
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_28
+  - first:
+      213: 1906512692643128053
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_29
+  - first:
+      213: -8132103484249898818
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_30
+  - first:
+      213: -6899411745331434335
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_31
+  - first:
+      213: -7014849720070428003
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_32
+  - first:
+      213: -8853331859438248207
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_33
+  - first:
+      213: -7116664139768784718
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_34
+  - first:
+      213: 3122330139781397537
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_35
+  - first:
+      213: -745302139539271085
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_36
+  - first:
+      213: -7583323138895635241
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_37
+  - first:
+      213: 7524166604262744989
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_38
+  - first:
+      213: 7478615948806291707
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_39
+  - first:
+      213: -6391087673626373534
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_40
+  - first:
+      213: 1183053615138347603
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_41
+  - first:
+      213: -4189638562592522841
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_42
+  - first:
+      213: 972593250512153550
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_43
+  - first:
+      213: 4911307356700560639
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_44
+  - first:
+      213: 7439994221673687187
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_45
+  - first:
+      213: 309623961282359028
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_46
+  - first:
+      213: -351419892945128393
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_47
+  - first:
+      213: 8765686937334548360
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_48
+  - first:
+      213: -2472687429391586637
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_49
+  - first:
+      213: -8784677569530825286
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_50
+  - first:
+      213: -1160390524469143511
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_51
+  - first:
+      213: -6283035155659449372
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_52
+  - first:
+      213: -8049577458667246579
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_53
+  - first:
+      213: -2021942997638986096
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_54
+  - first:
+      213: 2431876087138774043
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_55
+  - first:
+      213: 1993944084228331093
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_56
+  - first:
+      213: -8137495200691796107
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_57
+  - first:
+      213: 5405389977701176662
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_58
+  - first:
+      213: -3385750508234249304
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_59
+  - first:
+      213: -7355676383272678917
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_60
+  - first:
+      213: 43488601908810274
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_61
+  - first:
+      213: 5754547908008959135
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_62
+  - first:
+      213: -1796071802320209595
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_63
+  - first:
+      213: -1769470249117942558
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_64
+  - first:
+      213: 6802942467735658231
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_65
+  - first:
+      213: 7326243491666497576
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_66
+  - first:
+      213: -2009108045309240196
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_67
+  - first:
+      213: 5207651175972805901
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_68
+  - first:
+      213: -7897471631867043228
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_69
+  - first:
+      213: 3617101208397805625
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_70
+  - first:
+      213: -1890006151162448765
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_71
+  - first:
+      213: -7102603423574774140
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_72
+  - first:
+      213: -5944761855050478642
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_73
+  - first:
+      213: 2197558518341007372
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_74
+  - first:
+      213: -7355232165204060856
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_75
+  - first:
+      213: 1238606207749335141
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_76
+  - first:
+      213: -4716418058854872737
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_77
+  - first:
+      213: -8284094857897116523
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_78
+  - first:
+      213: 3210424763188087255
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_79
+  - first:
+      213: 5633751469838946328
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_80
+  - first:
+      213: -6682688782977651697
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_81
+  - first:
+      213: 6964480925602329728
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_82
+  - first:
+      213: 2369765569143798820
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_83
+  - first:
+      213: 2561557787661038926
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_84
+  - first:
+      213: -8239392068718712374
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_85
+  - first:
+      213: -2150764622645117745
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_86
+  - first:
+      213: 8195680403926980418
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_87
+  - first:
+      213: -786914341935294315
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_88
+  - first:
+      213: 5900858399537559149
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_89
+  - first:
+      213: 4517885619023722567
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_90
+  - first:
+      213: 270758446557403184
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_91
+  - first:
+      213: -407393399674889632
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_92
+  - first:
+      213: -2186255261578686507
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_93
+  - first:
+      213: 370408640884276498
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_94
+  - first:
+      213: 1926293278715862669
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_95
+  - first:
+      213: 6419770552516886719
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_96
+  - first:
+      213: -4903635312749528821
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_97
+  - first:
+      213: 5120953379464067264
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_98
+  - first:
+      213: 1978614681704795924
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_99
+  - first:
+      213: -2032185720771102091
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_100
+  - first:
+      213: 7724031774532013345
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_101
+  - first:
+      213: 6293542579953066589
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_102
+  - first:
+      213: -752534362978806874
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_103
+  - first:
+      213: -6829472672602600688
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_104
+  - first:
+      213: -8293819514641531993
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_105
+  - first:
+      213: 1367022142996486872
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_106
+  - first:
+      213: 5331984223342706462
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_107
+  - first:
+      213: 8747737771855426622
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_108
+  - first:
+      213: 1827586688186388908
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_109
+  - first:
+      213: -8999856896001157881
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_110
+  - first:
+      213: -9204703093834994565
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_111
+  - first:
+      213: 7798188934009037760
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_112
+  - first:
+      213: 1127170849657839211
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_113
+  - first:
+      213: 692741461375115562
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_114
+  - first:
+      213: -5488224798837005754
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_115
+  - first:
+      213: 6103424508774023343
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_116
+  - first:
+      213: 4405128632299867868
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_117
+  - first:
+      213: -6798719210365066823
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_118
+  - first:
+      213: -654348268902109724
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_119
+  - first:
+      213: 5979053890320317310
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_120
+  - first:
+      213: -1329665403677645552
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_121
+  - first:
+      213: 6284222555056201688
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_122
+  - first:
+      213: 1943398614103312301
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_123
+  - first:
+      213: -1568274127703287032
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_124
+  - first:
+      213: 4975577052286902820
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_125
+  - first:
+      213: 6035957063852419253
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_126
+  - first:
+      213: 1639904507804583159
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_127
+  - first:
+      213: -4112056680068922423
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_128
+  - first:
+      213: -5798552631019543347
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_129
+  - first:
+      213: -267436934065884630
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_130
+  - first:
+      213: -9020973678462664714
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_131
+  - first:
+      213: -5784697210567431647
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_132
+  - first:
+      213: 4813681804181956383
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_133
+  - first:
+      213: -9194979471704493530
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_134
+  - first:
+      213: 2328017737268084982
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_135
+  - first:
+      213: 1760907092007142758
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_136
+  - first:
+      213: -3282776641569558758
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_137
+  - first:
+      213: 1460995174396625531
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_138
+  - first:
+      213: -3396739111308448312
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_139
+  - first:
+      213: 3362646203387037905
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_140
+  - first:
+      213: -2618484328347735121
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_141
+  - first:
+      213: 704587999999507603
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_142
+  - first:
+      213: 8697658103804109278
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_143
+  - first:
+      213: 8987965247544627726
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_144
+  - first:
+      213: -4126796097127397450
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_145
+  - first:
+      213: 5392943731308450891
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_146
+  - first:
+      213: -8374769620342349342
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_147
+  - first:
+      213: 1157396588174845634
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_148
+  - first:
+      213: -789609030540142264
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_149
+  - first:
+      213: -1644143702416336294
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_150
+  - first:
+      213: 5504822576222628533
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_151
+  - first:
+      213: 1823384542317738063
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_152
+  - first:
+      213: -2367196114485627696
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_153
+  - first:
+      213: 5848501773927901961
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_154
+  - first:
+      213: 635225042510017298
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_155
+  - first:
+      213: -2583482668674280277
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_156
+  - first:
+      213: 5920708852990827383
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_157
+  - first:
+      213: 88681465676828016
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_158
+  - first:
+      213: 1973524024491901552
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_159
+  - first:
+      213: -859611294190637372
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_160
+  - first:
+      213: -1066743217121634001
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_161
+  - first:
+      213: -3631546720692547910
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_162
+  - first:
+      213: 4071266328614601832
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_163
+  - first:
+      213: -6244250539063358477
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_164
+  - first:
+      213: -810480006917485926
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_165
+  - first:
+      213: -6642517893885674570
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_166
+  - first:
+      213: -8192271976679881452
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_167
+  - first:
+      213: -1765574954566392724
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_168
+  - first:
+      213: -171395063588146885
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_169
+  - first:
+      213: -8842986270023539181
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_170
+  - first:
+      213: -2162616542694438263
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_171
+  - first:
+      213: -9123376749947007045
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_172
+  - first:
+      213: 4220049490743907448
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_173
+  - first:
+      213: -258889913149965273
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_174
+  - first:
+      213: -4862835086045801703
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_175
+  - first:
+      213: 8033501701838497554
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_176
+  - first:
+      213: 1639176489394313774
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_177
+  - first:
+      213: -6859951259344684712
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_178
+  - first:
+      213: 6343019660601514346
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_179
+  - first:
+      213: -6436397464880880534
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_180
+  - first:
+      213: 8905861681281595137
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_181
+  - first:
+      213: 1562480307469784064
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_182
+  - first:
+      213: -8281778412531227324
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_183
+  - first:
+      213: 6757537703480730731
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_184
+  - first:
+      213: 7540283828901051609
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_185
+  - first:
+      213: 6168486414371529590
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_186
+  - first:
+      213: 3965813596473335500
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_187
+  - first:
+      213: -405538902887591645
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_188
+  - first:
+      213: -2220877748449770150
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_189
+  - first:
+      213: 5873216461215637764
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_190
+  - first:
+      213: 2063646383729853598
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_191
+  - first:
+      213: -1331925351967143020
+    second: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_192
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_3
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 2929
+        width: 78
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54cac751648313ab0800000000000000
+      internalID: -5030177435136775099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_4
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 2929
+        width: 78
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4964e4c51e8247030800000000000000
+      internalID: 3491460559500363412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_5
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 2929
+        width: 78
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52fb0b2801523e4a0800000000000000
+      internalID: -6565363078933725403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2929
+        width: 78
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99bf52e16adda7940800000000000000
+      internalID: 5294788017467554713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_7
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 2929
+        width: 78
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b898c1dc78a2c6410800000000000000
+      internalID: 1471597940993460619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_8
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 2929
+        width: 78
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29b5fc3881ce0d10800000000000000
+      internalID: 2093823667656309036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_9
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 2929
+        width: 78
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf70a2a4953acebf0800000000000000
+      internalID: -293680271794239493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_10
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 2929
+        width: 78
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07770a5fdcb8e52c0800000000000000
+      internalID: -4440958465835239568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_15
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2724
+        width: 94
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd4afb8480499790800000000000000
+      internalID: -7522910764517405224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_16
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 2724
+        width: 94
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b45b396493d58f0800000000000000
+      internalID: -550220604180706428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_17
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 2724
+        width: 94
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef73b00d75b52020800000000000000
+      internalID: 2316457131839291375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_18
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 2724
+        width: 94
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c3a6f54bb1ba400800000000000000
+      internalID: 336393058678094894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_19
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 2724
+        width: 94
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea634208aad6d8f00800000000000000
+      internalID: 1120672461346846382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_20
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 2724
+        width: 94
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082d397de2058aa40800000000000000
+      internalID: 5379637917009564288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_21
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 2724
+        width: 94
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813e9535f311a8240800000000000000
+      internalID: 4794663716968325912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_22
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 2724
+        width: 94
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9197d746a4055a20800000000000000
+      internalID: 3050349434829771162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_26
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2522
+        width: 139
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced696b53ab0d82a0800000000000000
+      internalID: -6733713071607812628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_27
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2522
+        width: 139
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944d359335051e060800000000000000
+      internalID: 6980949215775282249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_28
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 2522
+        width: 139
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56e914ac126f52f0800000000000000
+      internalID: -981958318591711649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_29
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 2522
+        width: 139
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f264cc513b457a10800000000000000
+      internalID: 1906512692643128053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_30
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 2522
+        width: 139
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0819087f6f42f80800000000000000
+      internalID: -8132103484249898818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_31
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 2522
+        width: 139
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1acac50829d5040a0800000000000000
+      internalID: -6899411745331434335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_32
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 2522
+        width: 139
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a247a885f36ae90800000000000000
+      internalID: -7014849720070428003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_33
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 2522
+        width: 139
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fed88fa495a22580800000000000000
+      internalID: -8853331859438248207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_34
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2335
+        width: 91
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8125baba78c3d90800000000000000
+      internalID: -7116664139768784718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_35
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2335
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c7a2528beb45b20800000000000000
+      internalID: 3122330139781397537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_38
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 2335
+        width: 108
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9320fd69a53b6860800000000000000
+      internalID: 7524166604262744989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_39
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 2335
+        width: 80
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf08b20059169c760800000000000000
+      internalID: 7478615948806291707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_40
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 2335
+        width: 80
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2625f1d4f9b4e47a0800000000000000
+      internalID: -6391087673626373534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_41
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 2335
+        width: 80
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a1090befc0b6010800000000000000
+      internalID: 1183053615138347603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_42
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 2335
+        width: 80
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7adf46bcce96bd5c0800000000000000
+      internalID: -4189638562592522841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_46
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2149
+        width: 95
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe2f223a510c4400800000000000000
+      internalID: 309623961282359028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_47
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 2149
+        width: 95
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734fff128718f1bf0800000000000000
+      internalID: -351419892945128393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_48
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 2149
+        width: 95
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8878b10b3d9f5a970800000000000000
+      internalID: 8765686937334548360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_49
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 2149
+        width: 95
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba6a8242ef3fadd0800000000000000
+      internalID: -2472687429391586637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_50
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 2149
+        width: 95
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5f5c13b4e861680800000000000000
+      internalID: -8784677569530825286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_51
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 2149
+        width: 95
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928994c47f675efe0800000000000000
+      internalID: -1160390524469143511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_52
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 2149
+        width: 95
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb90ab90dc2ec8a0800000000000000
+      internalID: -6283035155659449372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_53
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 2149
+        width: 95
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ca52823f72a4090800000000000000
+      internalID: -8049577458667246579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_57
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1948
+        width: 91
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577c151ba3fc11f80800000000000000
+      internalID: -8137495200691796107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_58
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1948
+        width: 91
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655d555bb8dc30b40800000000000000
+      internalID: 5405389977701176662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_59
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1948
+        width: 91
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab699ae9d56301d0800000000000000
+      internalID: -3385750508234249304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_60
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1948
+        width: 91
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf94d4c2d436be990800000000000000
+      internalID: -7355676383272678917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_61
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1948
+        width: 91
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2229d8c27a08a9000800000000000000
+      internalID: 43488601908810274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_62
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1948
+        width: 91
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c57db55d24cdf40800000000000000
+      internalID: 5754547908008959135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_63
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1948
+        width: 91
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549bb9736321317e0800000000000000
+      internalID: -1796071802320209595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_64
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1948
+        width: 91
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ecf3b8fe249177e0800000000000000
+      internalID: -1769470249117942558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_68
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1752
+        width: 92
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d110a372b454840800000000000000
+      internalID: 5207651175972805901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_69
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1752
+        width: 92
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46227d6b46b866290800000000000000
+      internalID: -7897471631867043228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_70
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1752
+        width: 92
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938ff238266823230800000000000000
+      internalID: 3617101208397805625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_71
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1752
+        width: 92
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384b8a05b6955c5e0800000000000000
+      internalID: -1890006151162448765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_72
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1752
+        width: 92
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e2a5541db7e6d90800000000000000
+      internalID: -7102603423574774140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_73
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1752
+        width: 92
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb8c6be696ff7da0800000000000000
+      internalID: -5944761855050478642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_74
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1752
+        width: 92
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0879da44db4f7e10800000000000000
+      internalID: 2197558518341007372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_75
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1752
+        width: 92
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8451c70c057fce990800000000000000
+      internalID: -7355232165204060856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_79
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1545
+        width: 94
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d981f30058bd8c20800000000000000
+      internalID: 3210424763188087255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_80
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1545
+        width: 94
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810d598ec1b1f2e40800000000000000
+      internalID: 5633751469838946328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_81
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1545
+        width: 94
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c212255f15243a0800000000000000
+      internalID: -6682688782977651697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_82
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1545
+        width: 94
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084b28f908ec6a060800000000000000
+      internalID: 6964480925602329728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_83
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1545
+        width: 94
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c74c5ca3913e020800000000000000
+      internalID: 2369765569143798820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_84
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1545
+        width: 94
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45fb257c3b7c8320800000000000000
+      internalID: 2561557787661038926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_85
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1545
+        width: 94
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9a9d2519cc7ad80800000000000000
+      internalID: -8239392068718712374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_86
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1545
+        width: 94
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fccb2cf88f2f622e0800000000000000
+      internalID: -2150764622645117745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_87
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1357
+        width: 94
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24792b0a7e7ecb170800000000000000
+      internalID: 8195680403926980418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_88
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1357
+        width: 94
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598594443915415f0800000000000000
+      internalID: -786914341935294315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_89
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1357
+        width: 94
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66f056437f04e150800000000000000
+      internalID: 5900858399537559149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_90
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1357
+        width: 94
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74831c1a801c2be30800000000000000
+      internalID: 4517885619023722567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_91
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1357
+        width: 94
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0389df26f5de1c300800000000000000
+      internalID: 270758446557403184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_92
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1357
+        width: 94
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a1a888cd5a85af0800000000000000
+      internalID: -407393399674889632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_93
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1357
+        width: 94
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df06414c6cd8a1e0800000000000000
+      internalID: -2186255261578686507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_97
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1160
+        width: 109
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09b083e9a9c2fbb0800000000000000
+      internalID: -4903635312749528821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_98
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1160
+        width: 109
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8ba4677f7411740800000000000000
+      internalID: 5120953379464067264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_99
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1160
+        width: 109
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f0362e193757b10800000000000000
+      internalID: 1978614681704795924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_100
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1160
+        width: 109
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a31db9ad93cc3e0800000000000000
+      internalID: -2032185720771102091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_101
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1160
+        width: 109
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d8fcaa9f5413b60800000000000000
+      internalID: 7724031774532013345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_102
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1160
+        width: 109
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52e5e0c1a7275750800000000000000
+      internalID: 6293542579953066589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_103
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1160
+        width: 109
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a39f55ebf57e85f0800000000000000
+      internalID: -752534362978806874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_104
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1160
+        width: 109
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01bc842d9c6d831a0800000000000000
+      internalID: -6829472672602600688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_108
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 970
+        width: 96
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34b5bfe725366970800000000000000
+      internalID: 8747737771855426622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_109
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 970
+        width: 96
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca11591f864ec5910800000000000000
+      internalID: 1827586688186388908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_110
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 970
+        width: 96
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705508c16d51a1380800000000000000
+      internalID: -8999856896001157881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_111
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 970
+        width: 96
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ca6050e43524080800000000000000
+      internalID: -9204703093834994565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_112
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 970
+        width: 96
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3adf6d48bb83c60800000000000000
+      internalID: 7798188934009037760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_113
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 970
+        width: 96
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ed70f6ae384af00800000000000000
+      internalID: 1127170849657839211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_114
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 970
+        width: 96
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21e27650bc1d9900800000000000000
+      internalID: 692741461375115562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_115
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 970
+        width: 96
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642a4d19f98e5d3b0800000000000000
+      internalID: -5488224798837005754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_119
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 784
+        width: 91
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eda2b067b94be6f0800000000000000
+      internalID: -654348268902109724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_120
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 784
+        width: 91
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7bb579b5ddd9f250800000000000000
+      internalID: 5979053890320317310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_121
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 784
+        width: 91
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015eaa73c541c8de0800000000000000
+      internalID: -1329665403677645552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_122
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 784
+        width: 91
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df5f9b5e1b063750800000000000000
+      internalID: 6284222555056201688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_123
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 784
+        width: 91
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da74d923eb658fa10800000000000000
+      internalID: 1943398614103312301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_124
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 784
+        width: 91
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b5fcb6dfe5c3ae0800000000000000
+      internalID: -1568274127703287032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_125
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 784
+        width: 91
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4226522a7fccc0540800000000000000
+      internalID: 4975577052286902820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_126
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 784
+        width: 91
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8ee6e38f604c350800000000000000
+      internalID: 6035957063852419253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_130
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 596
+        width: 97
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22fe21868fd94cf0800000000000000
+      internalID: -267436934065884630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_131
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 596
+        width: 97
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff751f0c301fc280800000000000000
+      internalID: -9020973678462664714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_132
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 596
+        width: 97
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a6fee1980a8bfa0800000000000000
+      internalID: -5784697210567431647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_133
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 596
+        width: 97
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17e600d812adc240800000000000000
+      internalID: 4813681804181956383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_134
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 596
+        width: 97
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6227b0833eed46080800000000000000
+      internalID: -9194979471704493530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_135
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 596
+        width: 97
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f04ca43cc7ce4020800000000000000
+      internalID: 2328017737268084982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_136
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 596
+        width: 97
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6654d85abafff6810800000000000000
+      internalID: 1760907092007142758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_137
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 596
+        width: 97
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1feb42990c3172d0800000000000000
+      internalID: -3282776641569558758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_143
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 396
+        width: 66
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1aa0796f944b870800000000000000
+      internalID: 8697658103804109278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_144
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 396
+        width: 66
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e021479b5caabbc70800000000000000
+      internalID: 8987965247544627726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_145
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 396
+        width: 66
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7c04a70dcaab6c0800000000000000
+      internalID: -4126796097127397450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_146
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 396
+        width: 66
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b445f4620c597da40800000000000000
+      internalID: 5392943731308450891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_147
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 396
+        width: 66
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1e2c7d667d6cb80800000000000000
+      internalID: -8374769620342349342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_149
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 396
+        width: 66
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849d63f25ceba05f0800000000000000
+      internalID: -789609030540142264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_150
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 396
+        width: 66
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a57c18304de29e0800000000000000
+      internalID: -1644143702416336294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_151
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 396
+        width: 66
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5baec4f97fe056c40800000000000000
+      internalID: 5504822576222628533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_152
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 397
+        width: 67
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4879cd9496fd4910800000000000000
+      internalID: 1823384542317738063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_153
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 397
+        width: 67
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d436620da7062fd0800000000000000
+      internalID: -2367196114485627696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_154
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 397
+        width: 67
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90be63f606d0a2150800000000000000
+      internalID: 5848501773927901961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_155
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 397
+        width: 67
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213fd338fc5c0d800800000000000000
+      internalID: 635225042510017298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_156
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 396
+        width: 67
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba49a426330a52cd0800000000000000
+      internalID: -2583482668674280277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_157
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 396
+        width: 67
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b570125559a2250800000000000000
+      internalID: 5920708852990827383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_158
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 396
+        width: 67
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d04dbb25f0b3100800000000000000
+      internalID: 88681465676828016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_159
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 396
+        width: 67
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0720a83e4ad536b10800000000000000
+      internalID: 1973524024491901552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_163
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 203
+        width: 67
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8640517c72b008830800000000000000
+      internalID: 4071266328614601832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_164
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 203
+        width: 67
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb469ad737f759a0800000000000000
+      internalID: -6244250539063358477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_165
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 203
+        width: 67
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a80225ab890c4f0800000000000000
+      internalID: -810480006917485926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_166
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 203
+        width: 67
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbb4c84b2901d3a0800000000000000
+      internalID: -6642517893885674570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_167
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 202
+        width: 67
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415cb9eaa043f4e80800000000000000
+      internalID: -8192271976679881452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_168
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 202
+        width: 67
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c646eb8eeea6f77e0800000000000000
+      internalID: -1765574954566392724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_169
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 202
+        width: 67
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31b29609151f9df0800000000000000
+      internalID: -171395063588146885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_170
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 202
+        width: 67
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316279de6d6674580800000000000000
+      internalID: -8842986270023539181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_171
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 202
+        width: 103
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a805366b7dcf1e0800000000000000
+      internalID: -2162616542694438263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_172
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 202
+        width: 103
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbfc9530f21436180800000000000000
+      internalID: -9123376749947007045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_173
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 202
+        width: 103
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874db5e27a0a09a30800000000000000
+      internalID: 4220049490743907448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_174
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 202
+        width: 103
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72cb3c2eefc386cf0800000000000000
+      internalID: -258889913149965273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_180
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 16
+        width: 73
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64ec807b925da6a0800000000000000
+      internalID: -6436397464880880534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_181
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 16
+        width: 73
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1077d8b830af79b70800000000000000
+      internalID: 8905861681281595137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_182
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 16
+        width: 73
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004974faf8b0fa510800000000000000
+      internalID: 1562480307469784064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_183
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 16
+        width: 73
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445e39c9966311d80800000000000000
+      internalID: -8281778412531227324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_184
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 15
+        width: 73
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6427440db897cd50800000000000000
+      internalID: 6757537703480730731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_185
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 15
+        width: 73
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dcf447313874a860800000000000000
+      internalID: 7540283828901051609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_186
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 15
+        width: 73
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673207a36bdda9550800000000000000
+      internalID: 6168486414371529590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_187
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 15
+        width: 73
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce15374476690730800000000000000
+      internalID: 3965813596473335500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_189
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 9
+        width: 103
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55051a547bdd21e0800000000000000
+      internalID: -2220877748449770150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_190
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 9
+        width: 103
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4012cbbf04bd18150800000000000000
+      internalID: 5873216461215637764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_191
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 9
+        width: 103
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94cc3cc37b83ac10800000000000000
+      internalID: 2063646383729853598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Maya Fey_192
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 9
+        width: 103
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b49a003fc048de0800000000000000
+      internalID: -1331925351967143020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1eac21353cd39b64aa57a09d2e4d76cb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_0: -8726892541496911873
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_1: -3535019951930418785
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_10: -4440958465835239568
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_100: -2032185720771102091
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_101: 7724031774532013345
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_102: 6293542579953066589
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_103: -752534362978806874
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_104: -6829472672602600688
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_105: -8293819514641531993
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_106: 1367022142996486872
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_107: 5331984223342706462
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_108: 8747737771855426622
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_109: 1827586688186388908
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_11: -9038275782317659081
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_110: -8999856896001157881
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_111: -9204703093834994565
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_112: 7798188934009037760
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_113: 1127170849657839211
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_114: 692741461375115562
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_115: -5488224798837005754
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_116: 6103424508774023343
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_117: 4405128632299867868
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_118: -6798719210365066823
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_119: -654348268902109724
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_12: 4996583499802718297
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_120: 5979053890320317310
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_121: -1329665403677645552
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_122: 6284222555056201688
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_123: 1943398614103312301
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_124: -1568274127703287032
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_125: 4975577052286902820
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_126: 6035957063852419253
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_127: 1639904507804583159
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_128: -4112056680068922423
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_129: -5798552631019543347
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_13: -1470818550111672600
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_130: -267436934065884630
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_131: -9020973678462664714
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_132: -5784697210567431647
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_133: 4813681804181956383
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_134: -9194979471704493530
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_135: 2328017737268084982
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_136: 1760907092007142758
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_137: -3282776641569558758
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_138: 1460995174396625531
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_139: -3396739111308448312
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_14: 7163944004205496987
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_140: 3362646203387037905
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_141: -2618484328347735121
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_142: 704587999999507603
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_143: 8697658103804109278
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_144: 8987965247544627726
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_145: -4126796097127397450
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_146: 5392943731308450891
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_147: -8374769620342349342
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_148: 1157396588174845634
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_149: -789609030540142264
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_15: -7522910764517405224
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_150: -1644143702416336294
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_151: 5504822576222628533
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_152: 1823384542317738063
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_153: -2367196114485627696
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_154: 5848501773927901961
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_155: 635225042510017298
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_156: -2583482668674280277
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_157: 5920708852990827383
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_158: 88681465676828016
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_159: 1973524024491901552
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_16: -550220604180706428
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_160: -859611294190637372
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_161: -1066743217121634001
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_162: -3631546720692547910
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_163: 4071266328614601832
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_164: -6244250539063358477
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_165: -810480006917485926
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_166: -6642517893885674570
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_167: -8192271976679881452
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_168: -1765574954566392724
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_169: -171395063588146885
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_17: 2316457131839291375
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_170: -8842986270023539181
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_171: -2162616542694438263
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_172: -9123376749947007045
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_173: 4220049490743907448
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_174: -258889913149965273
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_175: -4862835086045801703
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_176: 8033501701838497554
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_177: 1639176489394313774
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_178: -6859951259344684712
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_179: 6343019660601514346
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_18: 336393058678094894
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_180: -6436397464880880534
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_181: 8905861681281595137
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_182: 1562480307469784064
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_183: -8281778412531227324
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_184: 6757537703480730731
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_185: 7540283828901051609
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_186: 6168486414371529590
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_187: 3965813596473335500
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_188: -405538902887591645
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_189: -2220877748449770150
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_19: 1120672461346846382
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_190: 5873216461215637764
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_191: 2063646383729853598
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_192: -1331925351967143020
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_2: 7464089342184990151
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_20: 5379637917009564288
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_21: 4794663716968325912
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_22: 3050349434829771162
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_23: 3226628710275530664
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_24: -6956330852194487186
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_25: 8620504077755919403
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_26: -6733713071607812628
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_27: 6980949215775282249
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_28: -981958318591711649
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_29: 1906512692643128053
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_3: -5030177435136775099
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_30: -8132103484249898818
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_31: -6899411745331434335
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_32: -7014849720070428003
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_33: -8853331859438248207
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_34: -7116664139768784718
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_35: 3122330139781397537
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_36: -745302139539271085
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_37: -7583323138895635241
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_38: 7524166604262744989
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_39: 7478615948806291707
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_4: 3491460559500363412
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_40: -6391087673626373534
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_41: 1183053615138347603
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_42: -4189638562592522841
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_43: 972593250512153550
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_44: 4911307356700560639
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_45: 7439994221673687187
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_46: 309623961282359028
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_47: -351419892945128393
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_48: 8765686937334548360
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_49: -2472687429391586637
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_5: -6565363078933725403
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_50: -8784677569530825286
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_51: -1160390524469143511
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_52: -6283035155659449372
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_53: -8049577458667246579
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_54: -2021942997638986096
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_55: 2431876087138774043
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_56: 1993944084228331093
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_57: -8137495200691796107
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_58: 5405389977701176662
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_59: -3385750508234249304
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_6: 5294788017467554713
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_60: -7355676383272678917
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_61: 43488601908810274
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_62: 5754547908008959135
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_63: -1796071802320209595
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_64: -1769470249117942558
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_65: 6802942467735658231
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_66: 7326243491666497576
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_67: -2009108045309240196
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_68: 5207651175972805901
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_69: -7897471631867043228
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_7: 1471597940993460619
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_70: 3617101208397805625
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_71: -1890006151162448765
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_72: -7102603423574774140
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_73: -5944761855050478642
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_74: 2197558518341007372
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_75: -7355232165204060856
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_76: 1238606207749335141
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_77: -4716418058854872737
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_78: -8284094857897116523
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_79: 3210424763188087255
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_8: 2093823667656309036
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_80: 5633751469838946328
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_81: -6682688782977651697
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_82: 6964480925602329728
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_83: 2369765569143798820
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_84: 2561557787661038926
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_85: -8239392068718712374
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_86: -2150764622645117745
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_87: 8195680403926980418
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_88: -786914341935294315
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_89: 5900858399537559149
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_9: -293680271794239493
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_90: 4517885619023722567
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_91: 270758446557403184
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_92: -407393399674889632
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_93: -2186255261578686507
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_94: 370408640884276498
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_95: 1926293278715862669
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_96: 6419770552516886719
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_97: -4903635312749528821
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_98: 5120953379464067264
+      DS DSi - Phoenix Wright Ace Attorney - Maya Fey_99: 1978614681704795924
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

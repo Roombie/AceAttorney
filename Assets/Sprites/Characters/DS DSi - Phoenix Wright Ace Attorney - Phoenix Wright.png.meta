@@ -1,0 +1,3137 @@
+fileFormatVersion: 2
+guid: 321e7aefe451bf044b1a7ebf385a3648
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3818608658445583265
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_0
+  - first:
+      213: -7206326350638752766
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_1
+  - first:
+      213: -3796160448129088165
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_2
+  - first:
+      213: -1453491170701682072
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_3
+  - first:
+      213: 8179478220770201070
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_4
+  - first:
+      213: 1351504279925554336
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_5
+  - first:
+      213: 1192818003232099068
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_6
+  - first:
+      213: -8508637632052178972
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_7
+  - first:
+      213: -1144426553252112204
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_8
+  - first:
+      213: 9079256344572289108
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_9
+  - first:
+      213: 5899782315313626754
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_10
+  - first:
+      213: 4482562758105466899
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_11
+  - first:
+      213: 1559819417828036129
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_12
+  - first:
+      213: 9082330969189972209
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_13
+  - first:
+      213: -5054682206283301061
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_14
+  - first:
+      213: 8332586130627999583
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_15
+  - first:
+      213: 5455862993492271023
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_16
+  - first:
+      213: -4334503174265941484
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_17
+  - first:
+      213: 224698368700815743
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_18
+  - first:
+      213: 1016813074224391271
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_19
+  - first:
+      213: -4580394925135825384
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_20
+  - first:
+      213: 6720476591429890545
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_21
+  - first:
+      213: -8106798394703106895
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_22
+  - first:
+      213: 3336682584802729047
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_23
+  - first:
+      213: 7769256088320789745
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_24
+  - first:
+      213: -8646845176999217867
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_25
+  - first:
+      213: 6921960450689194810
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_26
+  - first:
+      213: -6929281199107865258
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_27
+  - first:
+      213: -2186732031131391250
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_28
+  - first:
+      213: 457964550004445032
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_29
+  - first:
+      213: -7372915820787005759
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_30
+  - first:
+      213: -4225371272855425829
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_31
+  - first:
+      213: 1380427340907227963
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_32
+  - first:
+      213: -8565600902422781993
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_33
+  - first:
+      213: -1893308016015911177
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_34
+  - first:
+      213: 716675422733114824
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_35
+  - first:
+      213: 6454966918895731742
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_36
+  - first:
+      213: 951660008099282258
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_37
+  - first:
+      213: 5556136810429199924
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_38
+  - first:
+      213: 3758303583436541500
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_39
+  - first:
+      213: 4990295141037054668
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_40
+  - first:
+      213: -3084321457821357550
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_41
+  - first:
+      213: 7689810197040494291
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_42
+  - first:
+      213: 2630716950147652862
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_43
+  - first:
+      213: 4383727778338333282
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_44
+  - first:
+      213: 239616694093844249
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_45
+  - first:
+      213: -4182034744282737922
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_46
+  - first:
+      213: 4676655021473640199
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_47
+  - first:
+      213: 2250863672742519266
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_48
+  - first:
+      213: -1808524189925902436
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_49
+  - first:
+      213: -2514199077912609488
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_50
+  - first:
+      213: -4174533756845497759
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_51
+  - first:
+      213: 6507365370410340366
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_52
+  - first:
+      213: -3645003088338342523
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_53
+  - first:
+      213: 3409135139253022592
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_54
+  - first:
+      213: 849524880317403482
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_55
+  - first:
+      213: 6504432490746048521
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_56
+  - first:
+      213: 3861410013636784663
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_57
+  - first:
+      213: 182341857220627486
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_58
+  - first:
+      213: -3104874238441009733
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_59
+  - first:
+      213: 1651803242411726206
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_60
+  - first:
+      213: -2059622741603205771
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_61
+  - first:
+      213: 2648946302345980741
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_62
+  - first:
+      213: -5348915262713607155
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_63
+  - first:
+      213: 4267436300102711948
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_64
+  - first:
+      213: -1969376572433870235
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_65
+  - first:
+      213: 8042583528954622666
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_66
+  - first:
+      213: 6010637658079020511
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_67
+  - first:
+      213: 8037636369464827139
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_68
+  - first:
+      213: -8457891943498541016
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_69
+  - first:
+      213: 5364403405210134955
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_70
+  - first:
+      213: 914456196805137411
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_71
+  - first:
+      213: 4781937491146523642
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_72
+  - first:
+      213: 6650839971013289285
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_73
+  - first:
+      213: 2014840743802068167
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_74
+  - first:
+      213: -6420083207120387103
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_75
+  - first:
+      213: 6770990809280768779
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_76
+  - first:
+      213: -820268947853796421
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_77
+  - first:
+      213: -5632791571160650670
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_78
+  - first:
+      213: 1165684624439865481
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_79
+  - first:
+      213: 1912244318379510213
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_80
+  - first:
+      213: -3258813454442368858
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_81
+  - first:
+      213: 1792546862898891831
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_82
+  - first:
+      213: -8284507951549223718
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_83
+  - first:
+      213: -424780714668773802
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_84
+  - first:
+      213: 7163555243553101271
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_85
+  - first:
+      213: -3415083005140356926
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_86
+  - first:
+      213: 6258827909065848968
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_87
+  - first:
+      213: 2434593555984488137
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_88
+  - first:
+      213: 269780455424784661
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_89
+  - first:
+      213: 5693316174390485631
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_90
+  - first:
+      213: -906429568303422758
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_91
+  - first:
+      213: 8898992922017700003
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_92
+  - first:
+      213: -3771257292264067743
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_93
+  - first:
+      213: -1459153261436024422
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_94
+  - first:
+      213: 24807211509346353
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_95
+  - first:
+      213: 1737285587719654708
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_96
+  - first:
+      213: 5797981879926495431
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_97
+  - first:
+      213: 7802291667729103832
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_98
+  - first:
+      213: -3074949014539197681
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_99
+  - first:
+      213: 6086759401661493691
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_100
+  - first:
+      213: 6607701177560312131
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_101
+  - first:
+      213: 2457464572371387610
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_102
+  - first:
+      213: 8055085655368615905
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_103
+  - first:
+      213: 903623455480948686
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_104
+  - first:
+      213: 8444649954075090600
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_105
+  - first:
+      213: 4170947422044423066
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_106
+  - first:
+      213: 6281270565165279264
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_107
+  - first:
+      213: 8829765566276690651
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_108
+  - first:
+      213: -5582913755758958093
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_109
+  - first:
+      213: -5258705084421461116
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_110
+  - first:
+      213: -8081782485352427575
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_111
+  - first:
+      213: 1609381779665079307
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_112
+  - first:
+      213: -4800002348954201492
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_113
+  - first:
+      213: 4525547123836765315
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_114
+  - first:
+      213: -3331211960439781052
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_115
+  - first:
+      213: 3312012717640993530
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_116
+  - first:
+      213: 839314796488002721
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_117
+  - first:
+      213: 4982747269069417632
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_118
+  - first:
+      213: -5389203846347494818
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_119
+  - first:
+      213: -7075672152687241515
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_120
+  - first:
+      213: 7274046720922849605
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_121
+  - first:
+      213: -5110200512931260067
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_122
+  - first:
+      213: 4627834252457579833
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_123
+  - first:
+      213: -7064715532952611688
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_124
+  - first:
+      213: -7017381376424181694
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_125
+  - first:
+      213: 6437376051279875076
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_126
+  - first:
+      213: -2832952964546896478
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_127
+  - first:
+      213: -7199418879638999582
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_128
+  - first:
+      213: -8577558220099583369
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_129
+  - first:
+      213: -6572526929784438789
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_130
+  - first:
+      213: -1219549276497780380
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_131
+  - first:
+      213: -441469531441434840
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_132
+  - first:
+      213: -4019422636916796425
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_133
+  - first:
+      213: -7000424802232053742
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_134
+  - first:
+      213: -7263472098148016177
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_135
+  - first:
+      213: -1177297063830315329
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_136
+  - first:
+      213: 5312384069402753851
+    second: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_137
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_3
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2282
+        width: 126
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ad82e2b7924dbe0800000000000000
+      internalID: -1453491170701682072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_4
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2282
+        width: 126
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed4d05ea18538170800000000000000
+      internalID: 8179478220770201070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_5
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 2282
+        width: 126
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0acf1656bf181c210800000000000000
+      internalID: 1351504279925554336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_6
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 2282
+        width: 126
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa075477adbd8010800000000000000
+      internalID: 1192818003232099068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_7
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2282
+        width: 126
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef4203872f3be980800000000000000
+      internalID: -8508637632052178972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_8
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 2282
+        width: 126
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b812edfc1e2e10f0800000000000000
+      internalID: -1144426553252112204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_9
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 2282
+        width: 126
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45061fa9a8ffffd70800000000000000
+      internalID: 9079256344572289108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_10
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 2282
+        width: 126
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e7664e1cc30e150800000000000000
+      internalID: 5899782315313626754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_15
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 2127
+        width: 109
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57bd6810fa43a370800000000000000
+      internalID: 8332586130627999583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_16
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2127
+        width: 109
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf5e467c7e17bb40800000000000000
+      internalID: 5455862993492271023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_17
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 2127
+        width: 109
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41253140450c8d3c0800000000000000
+      internalID: -4334503174265941484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_18
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 2127
+        width: 109
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f799500d9f94e1300800000000000000
+      internalID: 224698368700815743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_19
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 2127
+        width: 109
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7642e1c8a127c1e00800000000000000
+      internalID: 1016813074224391271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_20
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 2127
+        width: 109
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816f644651b2f60c0800000000000000
+      internalID: -4580394925135825384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_21
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 2127
+        width: 109
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1b1817adde34d50800000000000000
+      internalID: 6720476591429890545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_22
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 2127
+        width: 109
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bca30acfcdde7f80800000000000000
+      internalID: -8106798394703106895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_23
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 2127
+        width: 109
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c1663e1274e4e20800000000000000
+      internalID: 3336682584802729047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_24
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 2127
+        width: 109
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fcc661cf31f1db60800000000000000
+      internalID: 7769256088320789745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_25
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 2127
+        width: 109
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535792ddf1c300880800000000000000
+      internalID: -8646845176999217867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_26
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 2127
+        width: 109
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3bd1a41b5ebf0060800000000000000
+      internalID: 6921960450689194810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_27
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 1939
+        width: 132
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655026a567f36df90800000000000000
+      internalID: -6929281199107865258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_30
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1940
+        width: 134
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c60227df142ea990800000000000000
+      internalID: -7372915820787005759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_31
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1940
+        width: 134
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdcef4dd6377c55c0800000000000000
+      internalID: -4225371272855425829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_32
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1941
+        width: 134
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b230d4a53482310800000000000000
+      internalID: 1380427340907227963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_33
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1941
+        width: 134
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df135b9c5fd02980800000000000000
+      internalID: -8565600902422781993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_34
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1940
+        width: 134
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6d8fef36e99b5e0800000000000000
+      internalID: -1893308016015911177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_35
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1940
+        width: 134
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd9247ff7422f900800000000000000
+      internalID: 716675422733114824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_36
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1940
+        width: 134
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e148dad7636a49950800000000000000
+      internalID: 6454966918895731742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_37
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1939
+        width: 134
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25df3b93cb9f43d00800000000000000
+      internalID: 951660008099282258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_38
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 1939
+        width: 134
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436ba1dcdfc5b1d40800000000000000
+      internalID: 5556136810429199924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_42
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1775
+        width: 127
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d676c0c1a1b7ba60800000000000000
+      internalID: 7689810197040494291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_43
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1775
+        width: 127
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc5626c02f228420800000000000000
+      internalID: 2630716950147652862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_44
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1775
+        width: 127
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2626edb303126dc30800000000000000
+      internalID: 4383727778338333282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_45
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 1775
+        width: 127
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f87bd1d1a435300800000000000000
+      internalID: 239616694093844249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_46
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1769
+        width: 134
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef29fa4be8d66f5c0800000000000000
+      internalID: -4182034744282737922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_47
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1769
+        width: 134
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70fabfbc6f0d6e040800000000000000
+      internalID: 4676655021473640199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_48
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1769
+        width: 134
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e126a3b59cac3f10800000000000000
+      internalID: 2250863672742519266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_49
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1769
+        width: 134
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97f3cbc4d4d6e6e0800000000000000
+      internalID: -1808524189925902436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_50
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1613
+        width: 135
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d776a6245cb1dd0800000000000000
+      internalID: -2514199077912609488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_51
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1613
+        width: 135
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162e8507aa31116c0800000000000000
+      internalID: -4174533756845497759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_52
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1613
+        width: 135
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e009cfea35ece4a50800000000000000
+      internalID: 6507365370410340366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_53
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1613
+        width: 135
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d2462d0095a6dc0800000000000000
+      internalID: -3645003088338342523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_54
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1613
+        width: 135
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f6a76c85eaf4f20800000000000000
+      internalID: 3409135139253022592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_55
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1613
+        width: 135
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51dc2fa06e1acb00800000000000000
+      internalID: 849524880317403482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_56
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1613
+        width: 148
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9007d6c63e2644a50800000000000000
+      internalID: 6504432490746048521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_57
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 1613
+        width: 135
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712f4f2e2fb769530800000000000000
+      internalID: 3861410013636784663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_58
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 1613
+        width: 135
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c025bf3fec78200800000000000000
+      internalID: 182341857220627486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_62
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1454
+        width: 190
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54baa6490a2f2c420800000000000000
+      internalID: 2648946302345980741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_63
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1452
+        width: 186
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c4a4888e5d4c5b0800000000000000
+      internalID: -5348915262713607155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_64
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1452
+        width: 186
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8aba3184baf83b30800000000000000
+      internalID: 4267436300102711948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_65
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1452
+        width: 186
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5625a1b017e5ba4e0800000000000000
+      internalID: -1969376572433870235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_66
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1452
+        width: 186
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac27fbfab1ffc9f60800000000000000
+      internalID: 8042583528954622666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_67
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1452
+        width: 186
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5c263ba131a6350800000000000000
+      internalID: 6010637658079020511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_68
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 1452
+        width: 186
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d16bb51bb6b8f60800000000000000
+      internalID: 8037636369464827139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_69
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 1452
+        width: 186
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8289127d6188f9a80800000000000000
+      internalID: -8457891943498541016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_70
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1271
+        width: 172
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba92277a970327a40800000000000000
+      internalID: 5364403405210134955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_71
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1271
+        width: 250
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3049935e01dc0bc00800000000000000
+      internalID: 914456196805137411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_72
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1271
+        width: 250
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af349e9ffcadc5240800000000000000
+      internalID: 4781937491146523642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_73
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1271
+        width: 250
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545673a47b78c4c50800000000000000
+      internalID: 6650839971013289285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_74
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 1271
+        width: 250
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc5e4d3bf626fb10800000000000000
+      internalID: 2014840743802068167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_75
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 1271
+        width: 250
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e38323965847e6a0800000000000000
+      internalID: -6420083207120387103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_76
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1099
+        width: 250
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b6d9c444467fd50800000000000000
+      internalID: 6770990809280768779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_77
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1099
+        width: 250
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb14e6ecb1dd94f0800000000000000
+      internalID: -820268947853796421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_78
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1099
+        width: 250
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ca72be8ed44d1b0800000000000000
+      internalID: -5632791571160650670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_79
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1099
+        width: 250
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9807fd76df75d2010800000000000000
+      internalID: 1165684624439865481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_83
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 921
+        width: 170
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc620949e3870d80800000000000000
+      internalID: -8284507951549223718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_84
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 921
+        width: 170
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e2bbac030ea1af0800000000000000
+      internalID: -424780714668773802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_85
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 921
+        width: 169
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d59ed43a8f0a6360800000000000000
+      internalID: 7163555243553101271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_86
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 921
+        width: 169
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0b228c9103b90d0800000000000000
+      internalID: -3415083005140356926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_87
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 921
+        width: 170
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888bb2692d2dbd650800000000000000
+      internalID: 6258827909065848968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_88
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 921
+        width: 170
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c619eca0f969c120800000000000000
+      internalID: 2434593555984488137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_92
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 749
+        width: 154
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a89497e9e29f7b70800000000000000
+      internalID: 8898992922017700003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_93
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 749
+        width: 154
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16daff1497dc9abc0800000000000000
+      internalID: -3771257292264067743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_94
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 749
+        width: 154
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99c043f6db00cbe0800000000000000
+      internalID: -1459153261436024422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_95
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 749
+        width: 154
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130f1e50702285000800000000000000
+      internalID: 24807211509346353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_96
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 749
+        width: 154
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d8f6999041c1810800000000000000
+      internalID: 1737285587719654708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_97
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 749
+        width: 154
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c89b2ffcc1967050800000000000000
+      internalID: 5797981879926495431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_98
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 748
+        width: 154
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dbbbf8feee474c60800000000000000
+      internalID: 7802291667729103832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_99
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 748
+        width: 154
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0324fdb9269355d0800000000000000
+      internalID: -3074949014539197681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_100
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 583
+        width: 127
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb17d414d63887450800000000000000
+      internalID: 6086759401661493691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_101
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 583
+        width: 127
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349a96e363543bb50800000000000000
+      internalID: 6607701177560312131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_102
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 583
+        width: 127
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4cd44220baa1220800000000000000
+      internalID: 2457464572371387610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_103
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 583
+        width: 127
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e74793d9b969cf60800000000000000
+      internalID: 8055085655368615905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_104
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 583
+        width: 127
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec727a2ceb05a8c00800000000000000
+      internalID: 903623455480948686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_105
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 583
+        width: 127
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae1a2d346c613570800000000000000
+      internalID: 8444649954075090600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_106
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 583
+        width: 127
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a930acbe49e22e930800000000000000
+      internalID: 4170947422044423066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_107
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 583
+        width: 127
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0282bc6ac4e8b2750800000000000000
+      internalID: 6281270565165279264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_111
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 401
+        width: 164
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf489016adb7df80800000000000000
+      internalID: -8081782485352427575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_112
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 401
+        width: 164
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c4ce4a33ca55610800000000000000
+      internalID: 1609381779665079307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_113
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 401
+        width: 164
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c625b8d8b47f26db0800000000000000
+      internalID: -4800002348954201492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_114
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 401
+        width: 164
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384c49ab129fdce30800000000000000
+      internalID: 4525547123836765315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_115
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 401
+        width: 164
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449447a1f5825c1d0800000000000000
+      internalID: -3331211960439781052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_116
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 401
+        width: 164
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa4196d402a6fd20800000000000000
+      internalID: 3312012717640993530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_117
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 401
+        width: 164
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac856b4c58d5ab00800000000000000
+      internalID: 839314796488002721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_118
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 401
+        width: 164
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac2e62dd36462540800000000000000
+      internalID: 4982747269069417632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_119
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 227
+        width: 127
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ae94ca7a3b535b0800000000000000
+      internalID: -5389203846347494818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_120
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 227
+        width: 127
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d614f76aa92ecd90800000000000000
+      internalID: -7075672152687241515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_121
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 227
+        width: 127
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541933004fa92f460800000000000000
+      internalID: 7274046720922849605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_122
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 227
+        width: 127
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5996bf55bbe419b0800000000000000
+      internalID: -5110200512931260067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_123
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 227
+        width: 127
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9359e19bbbe593040800000000000000
+      internalID: 4627834252457579833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_124
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 227
+        width: 127
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894dc2b37a615fd90800000000000000
+      internalID: -7064715532952611688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_125
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 227
+        width: 127
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2408bcc51d04d9e90800000000000000
+      internalID: -7017381376424181694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_126
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 227
+        width: 127
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40cc4267967265950800000000000000
+      internalID: 6437376051279875076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_130
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 9
+        width: 181
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff72818491b9c4a0800000000000000
+      internalID: -6572526929784438789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_131
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 9
+        width: 181
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461e34cf46a431fe0800000000000000
+      internalID: -1219549276497780380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_132
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 9
+        width: 181
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f6647dcc59fd9f0800000000000000
+      internalID: -441469531441434840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_133
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 9
+        width: 181
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3196458642838c0800000000000000
+      internalID: -4019422636916796425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_134
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 9
+        width: 181
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210df127bbe79de90800000000000000
+      internalID: -7000424802232053742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_135
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 9
+        width: 181
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf1de93c96f23b90800000000000000
+      internalID: -7263472098148016177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_136
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 9
+        width: 181
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe984bde8669afe0800000000000000
+      internalID: -1177297063830315329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_137
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 9
+        width: 181
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bf1373a2169b940800000000000000
+      internalID: 5312384069402753851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e1684ba8b46709845a81d9f318dd7d86
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_0: 3818608658445583265
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_1: -7206326350638752766
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_10: 5899782315313626754
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_100: 6086759401661493691
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_101: 6607701177560312131
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_102: 2457464572371387610
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_103: 8055085655368615905
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_104: 903623455480948686
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_105: 8444649954075090600
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_106: 4170947422044423066
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_107: 6281270565165279264
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_108: 8829765566276690651
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_109: -5582913755758958093
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_11: 4482562758105466899
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_110: -5258705084421461116
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_111: -8081782485352427575
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_112: 1609381779665079307
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_113: -4800002348954201492
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_114: 4525547123836765315
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_115: -3331211960439781052
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_116: 3312012717640993530
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_117: 839314796488002721
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_118: 4982747269069417632
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_119: -5389203846347494818
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_12: 1559819417828036129
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_120: -7075672152687241515
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_121: 7274046720922849605
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_122: -5110200512931260067
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_123: 4627834252457579833
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_124: -7064715532952611688
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_125: -7017381376424181694
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_126: 6437376051279875076
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_127: -2832952964546896478
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_128: -7199418879638999582
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_129: -8577558220099583369
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_13: 9082330969189972209
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_130: -6572526929784438789
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_131: -1219549276497780380
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_132: -441469531441434840
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_133: -4019422636916796425
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_134: -7000424802232053742
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_135: -7263472098148016177
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_136: -1177297063830315329
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_137: 5312384069402753851
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_14: -5054682206283301061
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_15: 8332586130627999583
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_16: 5455862993492271023
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_17: -4334503174265941484
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_18: 224698368700815743
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_19: 1016813074224391271
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_2: -3796160448129088165
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_20: -4580394925135825384
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_21: 6720476591429890545
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_22: -8106798394703106895
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_23: 3336682584802729047
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_24: 7769256088320789745
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_25: -8646845176999217867
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_26: 6921960450689194810
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_27: -6929281199107865258
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_28: -2186732031131391250
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_29: 457964550004445032
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_3: -1453491170701682072
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_30: -7372915820787005759
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_31: -4225371272855425829
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_32: 1380427340907227963
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_33: -8565600902422781993
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_34: -1893308016015911177
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_35: 716675422733114824
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_36: 6454966918895731742
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_37: 951660008099282258
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_38: 5556136810429199924
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_39: 3758303583436541500
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_4: 8179478220770201070
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_40: 4990295141037054668
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_41: -3084321457821357550
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_42: 7689810197040494291
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_43: 2630716950147652862
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_44: 4383727778338333282
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_45: 239616694093844249
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_46: -4182034744282737922
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_47: 4676655021473640199
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_48: 2250863672742519266
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_49: -1808524189925902436
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_5: 1351504279925554336
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_50: -2514199077912609488
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_51: -4174533756845497759
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_52: 6507365370410340366
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_53: -3645003088338342523
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_54: 3409135139253022592
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_55: 849524880317403482
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_56: 6504432490746048521
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_57: 3861410013636784663
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_58: 182341857220627486
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_59: -3104874238441009733
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_6: 1192818003232099068
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_60: 1651803242411726206
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_61: -2059622741603205771
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_62: 2648946302345980741
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_63: -5348915262713607155
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_64: 4267436300102711948
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_65: -1969376572433870235
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_66: 8042583528954622666
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_67: 6010637658079020511
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_68: 8037636369464827139
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_69: -8457891943498541016
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_7: -8508637632052178972
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_70: 5364403405210134955
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_71: 914456196805137411
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_72: 4781937491146523642
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_73: 6650839971013289285
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_74: 2014840743802068167
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_75: -6420083207120387103
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_76: 6770990809280768779
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_77: -820268947853796421
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_78: -5632791571160650670
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_79: 1165684624439865481
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_8: -1144426553252112204
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_80: 1912244318379510213
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_81: -3258813454442368858
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_82: 1792546862898891831
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_83: -8284507951549223718
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_84: -424780714668773802
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_85: 7163555243553101271
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_86: -3415083005140356926
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_87: 6258827909065848968
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_88: 2434593555984488137
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_89: 269780455424784661
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_9: 9079256344572289108
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_90: 5693316174390485631
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_91: -906429568303422758
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_92: 8898992922017700003
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_93: -3771257292264067743
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_94: -1459153261436024422
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_95: 24807211509346353
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_96: 1737285587719654708
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_97: 5797981879926495431
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_98: 7802291667729103832
+      DS DSi - Phoenix Wright Ace Attorney - Phoenix Wright_99: -3074949014539197681
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2799 @@
+fileFormatVersion: 2
+guid: a9bd2b875102a724db8e87c587762130
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -210872083254409107
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_0
+  - first:
+      213: -3732665770835800740
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_1
+  - first:
+      213: -6887578080826163122
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_2
+  - first:
+      213: 459597070931252652
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_3
+  - first:
+      213: -6246639720574390986
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_4
+  - first:
+      213: -6829781420963923916
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_5
+  - first:
+      213: 5825238701478701243
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_6
+  - first:
+      213: 1076997121136195270
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_7
+  - first:
+      213: -2446945832222082828
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_8
+  - first:
+      213: -5493437588284983396
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_9
+  - first:
+      213: -8263721245681340534
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_10
+  - first:
+      213: -4150228967878625852
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_11
+  - first:
+      213: -6166834716962255720
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_12
+  - first:
+      213: -5259066812142527938
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_13
+  - first:
+      213: -3524391002109044156
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_14
+  - first:
+      213: -9216657737571560730
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_15
+  - first:
+      213: -2297447354604768447
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_16
+  - first:
+      213: 1716081842018710981
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_17
+  - first:
+      213: 775089492301310437
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_18
+  - first:
+      213: 5741840039496378310
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_19
+  - first:
+      213: -2449306835354804584
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_20
+  - first:
+      213: -7639349518830904439
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_21
+  - first:
+      213: -5134693871549189343
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_22
+  - first:
+      213: -8310372029821861744
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_23
+  - first:
+      213: -1111079024445589401
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_24
+  - first:
+      213: -6614954609721145676
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_25
+  - first:
+      213: -8519126207255074645
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_26
+  - first:
+      213: 3900997374126568587
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_27
+  - first:
+      213: -8102385969426280133
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_28
+  - first:
+      213: 8000874344675490376
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_29
+  - first:
+      213: -6145900575896813761
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_30
+  - first:
+      213: 3777319480993335609
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_31
+  - first:
+      213: -2904881976800142878
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_32
+  - first:
+      213: 200631206063661461
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_33
+  - first:
+      213: -1329488980495333532
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_34
+  - first:
+      213: -3668304959339675064
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_35
+  - first:
+      213: 5284253126992099763
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_36
+  - first:
+      213: -1429474181873826627
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_37
+  - first:
+      213: 1221681318871561187
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_38
+  - first:
+      213: 1984017500927801785
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_39
+  - first:
+      213: -8695571937105223229
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_40
+  - first:
+      213: 4931721847085623593
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_41
+  - first:
+      213: -996451458423522404
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_42
+  - first:
+      213: -1500717826448239306
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_43
+  - first:
+      213: 3340009171541414544
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_44
+  - first:
+      213: 1531427469383968631
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_45
+  - first:
+      213: -4805645932388799744
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_46
+  - first:
+      213: -2545280277064949358
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_47
+  - first:
+      213: -2182338469458660114
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_48
+  - first:
+      213: 7175071615324078305
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_49
+  - first:
+      213: -6451415228334753502
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_50
+  - first:
+      213: -7635058233353219808
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_51
+  - first:
+      213: 8168924071479463380
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_52
+  - first:
+      213: -8978729133269978806
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_53
+  - first:
+      213: 1888341659223965130
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_54
+  - first:
+      213: -6728626344983304396
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_55
+  - first:
+      213: -6144232200236171216
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_56
+  - first:
+      213: 193588594349273385
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_57
+  - first:
+      213: -7121614645364215404
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_58
+  - first:
+      213: 929084183655705820
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_59
+  - first:
+      213: 6404650515655203758
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_60
+  - first:
+      213: -958966321356750701
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_61
+  - first:
+      213: 648943275922007813
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_62
+  - first:
+      213: 4910605152726181898
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_63
+  - first:
+      213: 4392652789568670259
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_64
+  - first:
+      213: 7585598795274168602
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_65
+  - first:
+      213: 4186173770012834046
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_66
+  - first:
+      213: 8184118937452931187
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_67
+  - first:
+      213: 5240832034522748791
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_68
+  - first:
+      213: 1375431071777895778
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_69
+  - first:
+      213: -790953577799068269
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_70
+  - first:
+      213: 769579568549063043
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_71
+  - first:
+      213: 6044409734172604788
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_72
+  - first:
+      213: -5605119137971304411
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_73
+  - first:
+      213: -6347792569132365268
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_74
+  - first:
+      213: 4579348367100821390
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_75
+  - first:
+      213: 8861212042522560470
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_76
+  - first:
+      213: 8355972261302751742
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_77
+  - first:
+      213: 4650179545999399740
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_78
+  - first:
+      213: 6340859195494150735
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_79
+  - first:
+      213: 5092927143630078919
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_80
+  - first:
+      213: -5188074127815467366
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_81
+  - first:
+      213: -5502343109839962604
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_82
+  - first:
+      213: -8282413344431166065
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_83
+  - first:
+      213: -4898216103877197310
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_84
+  - first:
+      213: 7673304667779151362
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_85
+  - first:
+      213: -1977546596572792516
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_86
+  - first:
+      213: 1623154589170369063
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_87
+  - first:
+      213: -4387708413660654509
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_88
+  - first:
+      213: -3054435594075884228
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_89
+  - first:
+      213: 6519303480451262025
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_90
+  - first:
+      213: 4945290255122904254
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_91
+  - first:
+      213: 2531536400226469525
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_92
+  - first:
+      213: -2641636127116549958
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_93
+  - first:
+      213: -1943608638418675230
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_94
+  - first:
+      213: -4071948633818711095
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_95
+  - first:
+      213: -5539278309658936662
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_96
+  - first:
+      213: 8546640267145692776
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_97
+  - first:
+      213: 3198684052091503032
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_98
+  - first:
+      213: -3240754746110447519
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_99
+  - first:
+      213: -409457455762891248
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_100
+  - first:
+      213: 4367161494393136387
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_101
+  - first:
+      213: 1569996642653289010
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_102
+  - first:
+      213: 5105782294138566078
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_103
+  - first:
+      213: 7897277512886534877
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_104
+  - first:
+      213: 2536092151564411706
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_105
+  - first:
+      213: 355762780037146470
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_106
+  - first:
+      213: 7685432037316300248
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_107
+  - first:
+      213: -6862994951365753100
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_108
+  - first:
+      213: -6975099708627659353
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_109
+  - first:
+      213: -2547058082270435492
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_110
+  - first:
+      213: -1421721654812207628
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_111
+  - first:
+      213: 865671606607047621
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_112
+  - first:
+      213: 6671394355268879706
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_113
+  - first:
+      213: -6783858967885542833
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_114
+  - first:
+      213: -5016156829401227772
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_115
+  - first:
+      213: -1877154555941901178
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_116
+  - first:
+      213: 2150998684093791527
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_117
+  - first:
+      213: 5073071220642318646
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_118
+  - first:
+      213: 5490642011377798408
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_119
+  - first:
+      213: -3832537014314506178
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_120
+  - first:
+      213: -1624000736510841347
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_121
+  - first:
+      213: -2374019561060085336
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_122
+  - first:
+      213: 1150928518534204030
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_123
+  - first:
+      213: 1374052172833394583
+    second: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_124
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1848
+        width: 106
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5daa8d911d06600800000000000000
+      internalID: 459597070931252652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1848
+        width: 106
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d615f254a7f49a0800000000000000
+      internalID: -6246639720574390986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_5
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1848
+        width: 106
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438f1edbbfdb731a0800000000000000
+      internalID: -6829781420963923916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_6
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1848
+        width: 106
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8ee7d4cb767d050800000000000000
+      internalID: 5825238701478701243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_7
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1848
+        width: 106
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6f07dec2342fe00800000000000000
+      internalID: 1076997121136195270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_8
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1848
+        width: 106
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8b7c5eab3ba0ed0800000000000000
+      internalID: -2446945832222082828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_9
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1848
+        width: 106
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97be727e9363c3b0800000000000000
+      internalID: -5493437588284983396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_10
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1848
+        width: 106
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8fa0546f4d515d80800000000000000
+      internalID: -8263721245681340534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_12
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1691
+        width: 157
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c0bea8f700b6aa0800000000000000
+      internalID: -6166834716962255720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_13
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1691
+        width: 157
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ad23c199a0407b0800000000000000
+      internalID: -5259066812142527938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_14
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1687
+        width: 159
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a15bd7e09d61fc0800000000000000
+      internalID: -3524391002109044156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_15
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1688
+        width: 159
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e211bf9e9ad71080800000000000000
+      internalID: -9216657737571560730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_16
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1687
+        width: 159
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1433f9aadc3dd10e0800000000000000
+      internalID: -2297447354604768447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_17
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1696
+        width: 156
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5f507d75fb0d710800000000000000
+      internalID: 1716081842018710981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_18
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 1696
+        width: 214
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9e1c169cba1ca00800000000000000
+      internalID: 775089492301310437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_19
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 1696
+        width: 150
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7eb47281d1faf40800000000000000
+      internalID: 5741840039496378310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_23
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1519
+        width: 159
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090402b4ba0abac80800000000000000
+      internalID: -8310372029821861744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_24
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1519
+        width: 159
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76878869387a490f0800000000000000
+      internalID: -1111079024445589401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_25
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1519
+        width: 159
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b60d3a74d5f234a0800000000000000
+      internalID: -6614954609721145676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_26
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1519
+        width: 159
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba827dbc9dbf5c980800000000000000
+      internalID: -8519126207255074645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_27
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1519
+        width: 159
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84bb828170232630800000000000000
+      internalID: 3900997374126568587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_28
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1519
+        width: 159
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31dc3b93ea8e8f80800000000000000
+      internalID: -8102385969426280133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_29
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1519
+        width: 159
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a3be673d0d80f60800000000000000
+      internalID: 8000874344675490376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_30
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 1519
+        width: 159
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f3dc41dff55baa0800000000000000
+      internalID: -6145900575896813761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_34
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1340
+        width: 138
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46787c0f0d4bc8de0800000000000000
+      internalID: -1329488980495333532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_35
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1340
+        width: 138
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84241c23310971dc0800000000000000
+      internalID: -3668304959339675064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_36
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1340
+        width: 138
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b97c99c830755940800000000000000
+      internalID: 5284253126992099763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_37
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1340
+        width: 138
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db481d52ecc792ce0800000000000000
+      internalID: -1429474181873826627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_38
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1340
+        width: 138
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3f110dfa844f010800000000000000
+      internalID: 1221681318871561187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_39
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1340
+        width: 138
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9b5f2c765a88b10800000000000000
+      internalID: 1984017500927801785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_40
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1340
+        width: 138
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1ecf1f46f135780800000000000000
+      internalID: -8695571937105223229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_41
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1340
+        width: 138
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929629af3eef07440800000000000000
+      internalID: 4931721847085623593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_42
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1340
+        width: 138
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9bfeb09da4eb22f0800000000000000
+      internalID: -996451458423522404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_43
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 1340
+        width: 135
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635d47686116c2be0800000000000000
+      internalID: -1500717826448239306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_44
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 1340
+        width: 140
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092d54835a81a5e20800000000000000
+      internalID: 3340009171541414544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_47
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1159
+        width: 188
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2916cbfc2195dacd0800000000000000
+      internalID: -2545280277064949358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_48
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1162
+        width: 188
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee43f3c79b6c6b1e0800000000000000
+      internalID: -2182338469458660114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_49
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1159
+        width: 188
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e041657e99f29360800000000000000
+      internalID: 7175071615324078305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_50
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1159
+        width: 188
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229bf88e708f776a0800000000000000
+      internalID: -6451415228334753502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_51
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1159
+        width: 188
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0215f813df2da0690800000000000000
+      internalID: -7635058233353219808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_52
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1159
+        width: 188
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ddcba58929dd5170800000000000000
+      internalID: 8168924071479463380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_56
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 981
+        width: 188
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030086f0e5d4bbaa0800000000000000
+      internalID: -6144232200236171216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_57
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 981
+        width: 188
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92171c60dc3cfa200800000000000000
+      internalID: 193588594349273385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_58
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 981
+        width: 188
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491b8d34631fa2d90800000000000000
+      internalID: -7121614645364215404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_59
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 981
+        width: 188
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc6b3d7425c4ec00800000000000000
+      internalID: 929084183655705820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_60
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 975
+        width: 188
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab9620f5b3e1e850800000000000000
+      internalID: 6404650515655203758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_61
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 975
+        width: 188
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390c7f7263111b2f0800000000000000
+      internalID: -958966321356750701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_62
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 975
+        width: 188
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507a5b0a872810900800000000000000
+      internalID: 648943275922007813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_63
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 975
+        width: 188
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0862707e59f52440800000000000000
+      internalID: 4910605152726181898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_67
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 784
+        width: 132
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378ed62ffc4d39170800000000000000
+      internalID: 8184118937452931187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_68
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 784
+        width: 132
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7775731e7fc2bb840800000000000000
+      internalID: 5240832034522748791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_69
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 784
+        width: 132
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2653b5eb543861310800000000000000
+      internalID: 1375431071777895778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_70
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 784
+        width: 132
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395567169e7f505f0800000000000000
+      internalID: -790953577799068269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_71
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 785
+        width: 132
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389e3c94a881eaa00800000000000000
+      internalID: 769579568549063043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_72
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 785
+        width: 132
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479754ae0ae02e350800000000000000
+      internalID: 6044409734172604788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_73
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 785
+        width: 132
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5280a7957dd9632b0800000000000000
+      internalID: -5605119137971304411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_74
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 785
+        width: 132
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a40095a4c18e7a0800000000000000
+      internalID: -6347792569132365268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_75
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 784
+        width: 132
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f3fc3d31d1d8f30800000000000000
+      internalID: 4579348367100821390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_76
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 784
+        width: 132
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d788f9676959fa70800000000000000
+      internalID: 8861212042522560470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_77
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 784
+        width: 132
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1d7f3ff7066f370800000000000000
+      internalID: 8355972261302751742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_78
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 784
+        width: 132
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3bd41dc8a1c88040800000000000000
+      internalID: 4650179545999399740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_79
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 760
+        width: 156
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42b23ec7d14ff750800000000000000
+      internalID: 6340859195494150735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_80
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 766
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3040fe046bda640800000000000000
+      internalID: 5092927143630078919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_81
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 611
+        width: 106
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e1a2f71124008b0800000000000000
+      internalID: -5188074127815467366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_82
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 611
+        width: 106
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ebba12810c3a3b0800000000000000
+      internalID: -5502343109839962604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_83
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 611
+        width: 148
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8da93202f4fe0d80800000000000000
+      internalID: -8282413344431166065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_84
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 611
+        width: 148
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2024d47c76a060cb0800000000000000
+      internalID: -4898216103877197310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_85
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 611
+        width: 148
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206b250c0fd0d7a60800000000000000
+      internalID: 7673304667779151362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_86
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 611
+        width: 148
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39fe7019d75e84e0800000000000000
+      internalID: -1977546596572792516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_87
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 611
+        width: 148
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7228b0fbf7a968610800000000000000
+      internalID: 1623154589170369063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_88
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 611
+        width: 148
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35493c1e17abb13c0800000000000000
+      internalID: -4387708413660654509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_92
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 429
+        width: 153
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596487f71f2d12320800000000000000
+      internalID: 2531536400226469525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_93
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 429
+        width: 153
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0216930f5075bd0800000000000000
+      internalID: -2641636127116549958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_94
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 429
+        width: 153
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e99ca4bd3ae605e0800000000000000
+      internalID: -1943608638418675230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_95
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 429
+        width: 153
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb3999aa488d77c0800000000000000
+      internalID: -4071948633818711095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_96
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 429
+        width: 153
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaab0c8c9b78023b0800000000000000
+      internalID: -5539278309658936662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_97
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 429
+        width: 153
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866c44a7a04cb9670800000000000000
+      internalID: 8546640267145692776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_98
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 429
+        width: 153
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b10f91b232046c20800000000000000
+      internalID: 3198684052091503032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_99
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 429
+        width: 153
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160fce98ab68603d0800000000000000
+      internalID: -3240754746110447519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_100
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 253
+        width: 106
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e1e960d90515af0800000000000000
+      internalID: -409457455762891248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_101
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 250
+        width: 185
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305211ead364b9c30800000000000000
+      internalID: 4367161494393136387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_102
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 253
+        width: 159
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ab7e7d0afb9c510800000000000000
+      internalID: 1569996642653289010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_105
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 248
+        width: 171
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3327a30062023320800000000000000
+      internalID: 2536092151564411706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_106
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 248
+        width: 171
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6676b601d5cefe400800000000000000
+      internalID: 355762780037146470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_107
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 248
+        width: 171
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd05a108b328aa60800000000000000
+      internalID: 7685432037316300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_108
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 248
+        width: 171
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f68b84147eb1c0a0800000000000000
+      internalID: -6862994951365753100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_110
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 240
+        width: 171
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57abf74b2807acd0800000000000000
+      internalID: -2547058082270435492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_111
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 240
+        width: 171
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5107300b7054ce0800000000000000
+      internalID: -1421721654812207628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_112
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 240
+        width: 171
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb64fb5dbb730c00800000000000000
+      internalID: 865671606607047621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_113
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 240
+        width: 171
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55095ec1dd859c50800000000000000
+      internalID: 6671394355268879706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_117
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 20
+        width: 229
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d3ebd18e1e9dd10800000000000000
+      internalID: 2150998684093791527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_118
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 20
+        width: 229
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63984aa956b276640800000000000000
+      internalID: 5073071220642318646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_119
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 20
+        width: 229
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d820591dda23c40800000000000000
+      internalID: 5490642011377798408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_120
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 20
+        width: 229
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e386f3124e710dac0800000000000000
+      internalID: -3832537014314506178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_121
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 15
+        width: 229
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd6c493fe36679e0800000000000000
+      internalID: -1624000736510841347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_122
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 15
+        width: 229
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a15f2d89c9cd0fd0800000000000000
+      internalID: -2374019561060085336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_123
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 15
+        width: 229
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a0915c36be8ff00800000000000000
+      internalID: 1150928518534204030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_124
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 15
+        width: 229
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f8690db2d911310800000000000000
+      internalID: 1374052172833394583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: be9bde714efaa2b449c8b4f4eb7697c4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_0: -210872083254409107
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_1: -3732665770835800740
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_10: -8263721245681340534
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_100: -409457455762891248
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_101: 4367161494393136387
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_102: 1569996642653289010
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_103: 5105782294138566078
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_104: 7897277512886534877
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_105: 2536092151564411706
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_106: 355762780037146470
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_107: 7685432037316300248
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_108: -6862994951365753100
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_109: -6975099708627659353
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_11: -4150228967878625852
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_110: -2547058082270435492
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_111: -1421721654812207628
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_112: 865671606607047621
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_113: 6671394355268879706
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_114: -6783858967885542833
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_115: -5016156829401227772
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_116: -1877154555941901178
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_117: 2150998684093791527
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_118: 5073071220642318646
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_119: 5490642011377798408
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_12: -6166834716962255720
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_120: -3832537014314506178
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_121: -1624000736510841347
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_122: -2374019561060085336
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_123: 1150928518534204030
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_124: 1374052172833394583
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_13: -5259066812142527938
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_14: -3524391002109044156
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_15: -9216657737571560730
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_16: -2297447354604768447
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_17: 1716081842018710981
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_18: 775089492301310437
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_19: 5741840039496378310
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_2: -6887578080826163122
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_20: -2449306835354804584
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_21: -7639349518830904439
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_22: -5134693871549189343
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_23: -8310372029821861744
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_24: -1111079024445589401
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_25: -6614954609721145676
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_26: -8519126207255074645
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_27: 3900997374126568587
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_28: -8102385969426280133
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_29: 8000874344675490376
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_3: 459597070931252652
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_30: -6145900575896813761
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_31: 3777319480993335609
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_32: -2904881976800142878
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_33: 200631206063661461
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_34: -1329488980495333532
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_35: -3668304959339675064
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_36: 5284253126992099763
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_37: -1429474181873826627
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_38: 1221681318871561187
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_39: 1984017500927801785
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_4: -6246639720574390986
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_40: -8695571937105223229
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_41: 4931721847085623593
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_42: -996451458423522404
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_43: -1500717826448239306
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_44: 3340009171541414544
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_45: 1531427469383968631
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_46: -4805645932388799744
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_47: -2545280277064949358
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_48: -2182338469458660114
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_49: 7175071615324078305
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_5: -6829781420963923916
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_50: -6451415228334753502
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_51: -7635058233353219808
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_52: 8168924071479463380
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_53: -8978729133269978806
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_54: 1888341659223965130
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_55: -6728626344983304396
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_56: -6144232200236171216
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_57: 193588594349273385
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_58: -7121614645364215404
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_59: 929084183655705820
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_6: 5825238701478701243
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_60: 6404650515655203758
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_61: -958966321356750701
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_62: 648943275922007813
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_63: 4910605152726181898
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_64: 4392652789568670259
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_65: 7585598795274168602
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_66: 4186173770012834046
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_67: 8184118937452931187
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_68: 5240832034522748791
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_69: 1375431071777895778
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_7: 1076997121136195270
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_70: -790953577799068269
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_71: 769579568549063043
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_72: 6044409734172604788
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_73: -5605119137971304411
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_74: -6347792569132365268
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_75: 4579348367100821390
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_76: 8861212042522560470
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_77: 8355972261302751742
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_78: 4650179545999399740
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_79: 6340859195494150735
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_8: -2446945832222082828
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_80: 5092927143630078919
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_81: -5188074127815467366
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_82: -5502343109839962604
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_83: -8282413344431166065
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_84: -4898216103877197310
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_85: 7673304667779151362
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_86: -1977546596572792516
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_87: 1623154589170369063
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_88: -4387708413660654509
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_89: -3054435594075884228
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_9: -5493437588284983396
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_90: 6519303480451262025
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_91: 4945290255122904254
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_92: 2531536400226469525
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_93: -2641636127116549958
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_94: -1943608638418675230
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_95: -4071948633818711095
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_96: -5539278309658936662
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_97: 8546640267145692776
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_98: 3198684052091503032
+      DS DSi - Phoenix Wright Ace Attorney - Miles Edgeworth in Court_99: -3240754746110447519
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
