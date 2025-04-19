@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51415c03b869b67498221ddaacc8f9f3, type: 3}
+  m_Name: nofg
+  m_EditorClassIdentifier: 
+  NodeLinks:
+  - baseNodeGuid: ddb12f25-6fbe-49ee-bf10-4575d0b60a0a
+    portName: Next
+    targetNodeGuid: 47448b13-6aac-4ed0-85a4-cd11e49e5310
+  - baseNodeGuid: 47448b13-6aac-4ed0-85a4-cd11e49e5310
+    portName: Next
+    targetNodeGuid: 5c3192fb-c4b0-48f5-a0ef-39853a60ab3c
+  DialogueNodeData:
+  - guid: ddb12f25-6fbe-49ee-bf10-4575d0b60a0a
+    nodeId: Start
+    speaker: 
+    expression: 
+    position: {x: 100, y: 200}
+    outputGUIDs: []
+  - guid: 5c3192fb-c4b0-48f5-a0ef-39853a60ab3c
+    nodeId: End
+    speaker: 
+    expression: 
+    position: {x: 600, y: 200}
+    outputGUIDs: []
+  - guid: 47448b13-6aac-4ed0-85a4-cd11e49e5310
+    nodeId: Dialogue
+    speaker: 
+    expression: 
+    position: {x: 308.8, y: 266.4}
+    outputGUIDs: []

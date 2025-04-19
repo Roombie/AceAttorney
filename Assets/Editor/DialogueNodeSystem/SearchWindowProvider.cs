@@ -54,7 +54,8 @@ public class SearchWindowProvider : ScriptableObject, ISearchWindowProvider
         string nodeName = entry.userData as string;
         if (string.IsNullOrEmpty(nodeName)) return false;
 
-        graphView.CreateNodeAt(nodeName, localMousePosition);
+        var nodeType = graphView.GetNodeTypeFromString(nodeName);
+        graphView.CreateNodeAt(nodeType, localMousePosition);
         return true;
     }
 }

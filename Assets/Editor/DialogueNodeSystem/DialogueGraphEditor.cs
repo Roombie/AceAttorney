@@ -9,6 +9,8 @@ using UnityEditor.UIElements;
 public class DialogueGraphEditor : EditorWindow
 {
     private DialogueGraphView graphView;
+    private string currentFileName = "";
+    private TextField fileNameField;
 
     [MenuItem("Tools/Dialogue Graph Editor")]
     private static void OpenWindow()
@@ -24,7 +26,6 @@ public class DialogueGraphEditor : EditorWindow
         GenerateToolbar();
     }
     
-
     private void ConstructGraphView()
     {
         graphView = new DialogueGraphView(this)
@@ -40,20 +41,57 @@ public class DialogueGraphEditor : EditorWindow
     {
         var toolbar = new Toolbar();
         
-        toolbar.Add(new Button(() => SaveData()) {text = "Save Data"});
-        toolbar.Add(new Button(() => LoadData()) {text = "Load Data"});
+        var fileNameField = new TextField("File Name");
+        fileNameField.RegisterValueChangedCallback(evt =>
+        {
+            currentFileName = evt.newValue.Trim();
+        });
+        toolbar.Add(fileNameField);
+
+        toolbar.Add(new Button(() => RequestDataOperation(true)) {text = "Save"});
+        toolbar.Add(new Button(() => RequestDataOperation(false)) {text = "Load"});
+
+        var reloadButton = new Button(() =>
+        {
+            DialogueLocalization.Load();
+
+            // Actualiza todos los nodos visibles con la nueva localización
+            foreach (var node in graphView.nodes.ToList().OfType<DialogueNode>())
+            {
+                node.ForcePreviewUpdate();
+            }
+
+        }) { text = "Reload" };
+
+        toolbar.Add(reloadButton);
+
+        var clearButton = new Button(() =>
+        {
+            graphView.DeleteElements(graphView.graphElements.ToList());
+        })
+        { text = "Clear" };
+        toolbar.Add(clearButton);
 
         rootVisualElement.Add(toolbar);
     }
 
-    private object SaveData()
+    private void RequestDataOperation(bool save)
     {
-        throw new NotImplementedException();
-    }
+        if (string.IsNullOrEmpty(currentFileName))
+        {
+            EditorUtility.DisplayDialog("Invalid file name!", "Please enter a valid file name", "OK");
+        }
 
-    private object LoadData()
-    {
-        throw new NotImplementedException();
+        var saveUtility = GraphSaveUtility.GetInstance(graphView);
+
+        if (save)
+        {
+            saveUtility.SaveGraph(currentFileName);
+        }
+        else
+        {
+            saveUtility.LoadGraph(currentFileName);
+        }
     }
 
     private void OnDisable()

@@ -8,7 +8,7 @@ using System;
 public class DialogueNode : Node
 {
     public string GUID;
-    public string NodeType; // e.g., "Dialogue Node" or "Choice Node"
+    public DialogueNodeType NodeType;
 
     private Label previewLabel;
     private TextField textIdField;
@@ -19,36 +19,36 @@ public class DialogueNode : Node
         return InstantiatePort(Orientation.Horizontal, portDirection, capacity, typeof(string));
     }
 
-    public void Initialize(string nodeType)
+    public void Initialize(DialogueNodeType nodeType)
     {
         if (Application.isEditor)
         {
             DialogueLocalization.Load();
         }
 
-        var titleContainer = this.Q("title");
+        title = GetNodeTitle(nodeType);
         NodeType = nodeType;
 
         switch (nodeType)
         {
-            case "Start Node":
+            case DialogueNodeType.Start:
                 SetupStartNode();
                 titleContainer.style.backgroundColor = new Color(0f, 0f, 0f);
                 break;
-            case "End Node":
+            case DialogueNodeType.End:
                 SetupEndNode();
                 titleContainer.style.backgroundColor = new Color(0f, 0f, 0f);
                 break;
-            case "Choice Node":
+            case DialogueNodeType.Choice:
                 SetupChoiceNode();
                 titleContainer.style.backgroundColor = new Color(0.2f, 0.4f, 0.6f);
                 break;
-            case "If Evidence Presented":
-            case "If Statement Pressed":
-            case "If Testimony Contradicted":
-            case "If Scene Already Seen":
-            case "If Talked to Character":
-                SetupCaseLogicNode(nodeType);
+            case DialogueNodeType.IfEvidencePresented:
+            case DialogueNodeType.IfStatementPressed:
+            case DialogueNodeType.IfTestimonyContradicted:
+            case DialogueNodeType.IfSceneAlreadySeen:
+            case DialogueNodeType.IfTalkedToCharacter:
+                SetupCaseLogicNode(title);
                 titleContainer.style.backgroundColor = new Color(0.8f, 0.1f, 0.1f);
                 break;
             default:
@@ -63,6 +63,19 @@ public class DialogueNode : Node
         LocalizationSettings.SelectedLocaleChanged += OnLocaleChanged;
     }
 
+    private string GetNodeTitle(DialogueNodeType type)
+    {
+        return type switch
+        {
+            DialogueNodeType.IfEvidencePresented => "If Evidence Presented",
+            DialogueNodeType.IfStatementPressed => "If Statement Pressed",
+            DialogueNodeType.IfTestimonyContradicted => "If Testimony Contradicted",
+            DialogueNodeType.IfSceneAlreadySeen => "If Scene Already Seen",
+            DialogueNodeType.IfTalkedToCharacter => "If Talked to Character",
+            _ => type.ToString()
+        };
+    }
+
     public DialogueNode()
     {
         RegisterCallback<DetachFromPanelEvent>(OnNodeDetached);
@@ -74,6 +87,11 @@ public class DialogueNode : Node
     }
 
     private void OnLocaleChanged(Locale locale)
+    {
+        UpdatePreview();
+    }
+
+    public void ForcePreviewUpdate()
     {
         UpdatePreview();
     }

@@ -15,28 +15,23 @@ public class DialogueGraphView : GraphView
         this.StretchToParentSize();
         style.flexGrow = 1;
 
-        // Zoom y manipulación
         SetupZoom(ContentZoomer.DefaultMinScale, ContentZoomer.DefaultMaxScale);
         this.AddManipulator(new ContentDragger());
         this.AddManipulator(new SelectionDragger());
         this.AddManipulator(new RectangleSelector());
 
-        // Fondo cuadriculado
         var grid = new GridBackground();
         Insert(0, grid);
         grid.StretchToParentSize();
 
-        // Estilo visual
         StyleSheet styleSheet = AssetDatabase.LoadAssetAtPath<StyleSheet>(
             "Assets/Editor/Resources/GraphViewStyles.uss"
         );
         if (styleSheet != null)
             styleSheets.Add(styleSheet);
 
-        // Search window contextual
         AddSearchWindow(editorWindow);
 
-        // Menú contextual personalizado
         contentViewContainer.RegisterCallback<ContextClickEvent>(evt =>
         {
             if (selection == null || selection.Count == 0)
@@ -62,70 +57,69 @@ public class DialogueGraphView : GraphView
         };
     }
 
-    private bool HasNodeType(string nodeType)
+    private bool HasNodeType(DialogueNodeType type)
     {
-        return nodes.ToList().OfType<DialogueNode>().Any(n => n.NodeType == nodeType);
+        return nodes.ToList().OfType<DialogueNode>().Any(n => n.NodeType == type);
     }
 
     private void CreateEssentialNodes()
     {
-        if (!HasNodeType("Start Node"))
-            CreateNodeAt("Start Node", new Vector2(100, 200));
+        if (!HasNodeType(DialogueNodeType.Start))
+            CreateNodeAt(DialogueNodeType.Start, new Vector2(100, 200));
 
-        if (!HasNodeType("End Node"))
-            CreateNodeAt("End Node", new Vector2(600, 200));
+        if (!HasNodeType(DialogueNodeType.End))
+            CreateNodeAt(DialogueNodeType.End, new Vector2(600, 200));
     }
 
-    public void CreateNodeAt(string nodeName, Vector2 position)
+    public DialogueNode CreateNode(DialogueNodeType nodeType)
     {
-        if ((nodeName == "Start Node" || nodeName == "End Node") && HasNodeType(nodeName))
+        var node = new DialogueNode
+        {
+            title = GetNodeTitle(nodeType),
+            GUID = Guid.NewGuid().ToString()
+        };
+
+        node.Initialize(nodeType);
+        return node;
+    }
+
+    private string GetNodeTitle(DialogueNodeType type)
+    {
+        return type switch
+        {
+            DialogueNodeType.Start => "Start Node",
+            DialogueNodeType.End => "End Node",
+            DialogueNodeType.Choice => "Choice Node",
+            DialogueNodeType.IfEvidencePresented => "If Evidence Presented",
+            DialogueNodeType.IfStatementPressed => "If Statement Pressed",
+            DialogueNodeType.IfTestimonyContradicted => "If Testimony Contradicted",
+            DialogueNodeType.IfSceneAlreadySeen => "If Scene Already Seen",
+            DialogueNodeType.IfTalkedToCharacter => "If Talked to Character",
+            _ => "Dialogue Node"
+        };
+    }
+
+    public void CreateNodeAt(DialogueNodeType type, Vector2 position)
+    {
+        if ((type == DialogueNodeType.Start || type == DialogueNodeType.End) && HasNodeType(type))
         {
             EditorUtility.DisplayDialog(
                 "Node Already Exists",
-                $"Only one {nodeName} is allowed in the graph.",
+                $"Only one {type} node is allowed in the graph.",
                 "OK"
             );
             return;
         }
 
-        DialogueNode node;
-
-        switch (nodeName)
+        var node = new DialogueNode
         {
-            case "Choice Node":
-                node = CreateChoiceNode(nodeName);
-                break;
-            default:
-                node = CreateDialogueNode(nodeName);
-                break;
-        }
+            title = type.ToString() + " Node",
+            GUID = Guid.NewGuid().ToString()
+        };
 
+        node.Initialize(type);
         node.SetPosition(new Rect(position, new Vector2(200, 200)));
         AddElement(node);
-    }
-
-    public DialogueNode CreateDialogueNode(string nodeName)
-    {
-        var node = new DialogueNode
-        {
-            title = nodeName,
-            GUID = Guid.NewGuid().ToString()
-        };
-
-        node.Initialize(nodeName);
-        return node;
-    }
-
-    public DialogueNode CreateChoiceNode(string nodeName)
-    {
-        var node = new DialogueNode
-        {
-            title = nodeName,
-            GUID = Guid.NewGuid().ToString()
-        };
-
-        node.Initialize("Choice Node");
-        return node;
     }
 
     public override List<Port> GetCompatiblePorts(Port startPort, NodeAdapter nodeAdapter)
@@ -137,5 +131,21 @@ public class DialogueGraphView : GraphView
                 compatiblePorts.Add(port);
         });
         return compatiblePorts;
+    }
+
+    public DialogueNodeType GetNodeTypeFromString(string userData)
+    {
+        return userData switch
+        {
+            "Start Node" => DialogueNodeType.Start,
+            "End Node" => DialogueNodeType.End,
+            "Choice Node" => DialogueNodeType.Choice,
+            "If Evidence Presented" => DialogueNodeType.IfEvidencePresented,
+            "If Statement Pressed" => DialogueNodeType.IfStatementPressed,
+            "If Testimony Contradicted" => DialogueNodeType.IfTestimonyContradicted,
+            "If Scene Already Seen" => DialogueNodeType.IfSceneAlreadySeen,
+            "If Talked To Character" => DialogueNodeType.IfTalkedToCharacter,
+            _ => DialogueNodeType.Dialogue
+        };
     }
 }
