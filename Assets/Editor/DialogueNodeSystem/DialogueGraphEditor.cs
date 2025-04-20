@@ -5,6 +5,7 @@ using System.Linq;
 using System;
 using UnityEngine.UIElements;
 using UnityEditor.UIElements;
+using UnityEditor.Experimental.GraphView;
 
 public class DialogueGraphEditor : EditorWindow
 {
@@ -24,6 +25,7 @@ public class DialogueGraphEditor : EditorWindow
     {
         ConstructGraphView();
         GenerateToolbar();
+        GenerateMinimap();
     }
     
     private void ConstructGraphView()
@@ -73,6 +75,14 @@ public class DialogueGraphEditor : EditorWindow
         toolbar.Add(clearButton);
 
         rootVisualElement.Add(toolbar);
+    }
+
+    private void GenerateMinimap()
+    {
+        var miniMap = new MiniMap();
+        miniMap.anchored = true;
+        miniMap.SetPosition(new Rect(10, 30, 200, 140));
+        graphView.Add(miniMap);
     }
 
     private void RequestDataOperation(bool save)

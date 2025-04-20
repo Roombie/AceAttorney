@@ -4,6 +4,8 @@ using UnityEngine.UIElements;
 using UnityEngine.Localization;
 using UnityEngine.Localization.Settings;
 using System;
+using System.Collections.Generic;
+using System.Linq;
 
 public class DialogueNode : Node
 {
@@ -74,6 +76,51 @@ public class DialogueNode : Node
             DialogueNodeType.IfTalkedToCharacter => "If Talked to Character",
             _ => type.ToString()
         };
+    }
+
+    public string GetTextId()
+    {
+        return textIdField?.value ?? "";
+    }
+
+    public void SetTextId(string textId)
+    {
+        if (textIdField != null)
+        {
+            textIdField.SetValueWithoutNotify(textId); // avoid duplicated callback
+            previewLabel.text = DialogueLocalization.GetText(textId, CurrentLanguage);
+        }
+    }
+
+    public List<string> GetChoiceIds()
+    {
+        var ids = new List<string>();
+        foreach (var child in outputContainer.Children())
+        {
+            var field = child.Q<TextField>();
+            if (field != null) ids.Add(field.value);
+        }
+        return ids;
+    }
+
+    public string GetConditionLabel(bool isTrue)
+    {
+        var port = outputContainer.Children().FirstOrDefault(p =>
+            (p as Port)?.portName == (isTrue ? "True" : "False")) as VisualElement;
+
+        return port?.Q<Label>()?.text ?? "";
+    }
+
+    public void SetConditionLabel(bool isTrue, string value)
+    {
+        var port = outputContainer.Children().FirstOrDefault(p =>
+            (p as Port)?.portName == (isTrue ? "True" : "False")) as VisualElement;
+
+        var label = port?.Q<Label>();
+        if (label != null)
+        {
+            label.text = value;
+        }
     }
 
     public DialogueNode()

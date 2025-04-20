@@ -42,12 +42,29 @@ public class GraphSaveUtility
 
         foreach (var node in Nodes)
         {
-            dialogueContainer.DialogueNodeData.Add(new DialogueNodeData
+            var data = new DialogueNodeData
             {
                 guid = node.GUID,
                 nodeId = node.NodeType.ToString(),
-                position = node.GetPosition().position
-            });
+                position = node.GetPosition().position,
+                textId = node.GetTextId(),
+                nodeType = node.NodeType
+            };
+
+            // Si es un nodo de tipo "Choice"
+            if (node.NodeType == DialogueNodeType.Choice)
+            {
+                data.choiceIds = node.GetChoiceIds(); // ← necesitas definir GetChoiceIds()
+            }
+
+            // Si es un nodo condicional
+            if (node.NodeType.ToString().StartsWith("If"))
+            {
+                data.conditionLabelTrue = node.GetConditionLabel(true);
+                data.conditionLabelFalse = node.GetConditionLabel(false);
+            }
+
+            dialogueContainer.DialogueNodeData.Add(data);
         }
 
         if (!AssetDatabase.IsValidFolder("Assets/Resources/DialogueAssets"))
@@ -90,6 +107,15 @@ public class GraphSaveUtility
             var tempNode = targetGraphView.CreateNode(type);
             tempNode.GUID = nodeData.guid;
             tempNode.SetPosition(new Rect(nodeData.position, new Vector2(200, 200)));
+            tempNode.SetTextId(nodeData.textId);
+
+            if (parsedType == DialogueNodeType.Choice)
+            {
+                foreach (var choice in nodeData.choiceIds)
+                {
+                    tempNode.AddChoicePort(choice);
+                }
+            }
             targetGraphView.AddElement(tempNode);
         }
     }
