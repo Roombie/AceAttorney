@@ -268,6 +268,15 @@ public class DialogueNode : Node
 
         var deleteButton = new Button(() =>
         {
+            // Remove any edges connected to this port
+            var gv = this.GetFirstAncestorOfType<GraphView>();
+            if (gv != null && outputPort.connections != null)
+            {
+                foreach (var edge in outputPort.connections.ToList())
+                    gv.RemoveElement(edge);
+            }
+
+            // Remove the port itself
             outputContainer.Remove(outputPort);
             RefreshPorts();
             RefreshExpandedState();

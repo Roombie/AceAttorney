@@ -57,7 +57,7 @@ public class DialogueGraphEditor : EditorWindow
         {
             DialogueLocalization.Load();
 
-            // Actualiza todos los nodos visibles con la nueva localización
+            // Update all visible nodes on the new lcoalization
             foreach (var node in graphView.nodes.ToList().OfType<DialogueNode>())
             {
                 node.ForcePreviewUpdate();
